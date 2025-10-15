@@ -6,3 +6,5 @@ Ce projet nous permet d'apprendre à utiliser Git en équipe.
 - Développeur : [Kouassi]
 ## Description
 Bienvenue dans mon domaine.
+
+On aura notre diplome l'an prochain!
