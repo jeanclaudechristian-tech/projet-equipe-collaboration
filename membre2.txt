@@ -1,3 +1,4 @@
 Nom : Nanou Ange Robert, Kouassi
 Rôle : Développeur
 Responsabilités : Développement et tests du code
+Compétence : Je sais coder en javascript
